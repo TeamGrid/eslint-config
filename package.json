@@ -1,6 +1,6 @@
 {
   "name": "@teamgrid/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eslint config used at TeamGrid",
   "main": "index.js",
   "scripts": {
