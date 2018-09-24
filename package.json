@@ -1,6 +1,6 @@
 {
   "name": "@teamgrid/eslint-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "eslint config used at TeamGrid",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,6 @@
     "eslint-config-airbnb": "^16.1.0",
     "eslint-config-prettier": "^2.9.0",
     "eslint-import-resolver-meteor": "^0.4.0",
-    "eslint-plugin-extras": "^1.0.0",
     "eslint-plugin-import": "^2.11.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-meteor": "^5.0.0",

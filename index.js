@@ -41,7 +41,6 @@ module.exports = {
     'allowImportExportEverywhere': true
   },
   'plugins': [
-    'extras',
     'meteor',
     'prefer-object-spread',
     // 'prettier',
@@ -125,7 +124,6 @@ module.exports = {
     /*
      * Extentions
      */
-    'extras/sort-named-imports': 'error',
     "meteor/template-names": [
       2,
       "pascal-case"
